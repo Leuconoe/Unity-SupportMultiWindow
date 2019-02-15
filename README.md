@@ -2,7 +2,6 @@
 Supports app pause controll in split window/pop-up window of Android for Unity engine.
 
 안드로이드에서 멀티윈도우 사용시 앱이 멈추지 않는 기능을 지원한다.
-
 ![Alt text](Readme/sample.gif)
 
 # 개발 이유
@@ -20,6 +19,8 @@ Unity 5.6.6 f2
 * 삼성 갤럭시 노트9 AOS 9.0
 * 삼성 갤럭시 S9+ AOS 8.0
 * LG G4 AOS 7.0
+
+root에 있는 샘플앱으로 테스트가 가능하다.
 
 # 주의
 *유니티가 해당기능에 compatible하게 개발되어있지 않기 때문에 문제가 있을 수 있다.*
